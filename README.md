@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Amanda 👋</h1>
+<h1 align="center">Hi there, I'm Amanda Okwuoha 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lupineflamez&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building_%26_Debugging-blue?style=flat-square" alt="Status" />
